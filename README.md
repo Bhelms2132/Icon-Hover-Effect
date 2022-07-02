@@ -2,10 +2,7 @@
 
 ## Project Description
 
-
-
 ## Lessons learned
-
 
 ## Technologies Used
 
