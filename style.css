@@ -43,10 +43,12 @@
 }
 
 .hover-fx:hover {
-    background-color: #fff;
-    color: #14213d;
+    background-color: #14213d;
+    color: #e5e5e5e5;
 }
 
 .hover-fx:hover::after {
     opacity: 1;
+    transform: scale(1.15);
 }
+
